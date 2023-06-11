@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Mercadona>
+		<Dirección>Avenida Jesus Nazareno, 38 41730 Las Cabezas de San Juan, Sevilla  </Dirección>
+		<Geolocalización>
+			<Latitud>36.98938</Latitud>
+			<Longitud>-5.93873</Longitud>
+		</Geolocalización>
+		<Productos>
+			<Palomitas>
+				<Descripción>Palomitas microondas dulce</Descripción>
+				<Marca>Hacendado</Marca>
+				<Peso>315</Peso>
+				<Unidad de medida>gramos</Unidad de medida>
+				<Unidades>1</Unidades>
+				<Precio>
+					<Por unidad>1.7</Por unidad>
+					<Por kilo>5.397</Por kilo>
+				</Precio>
+				<Oferta>
+					<Descripción>Es un pack de tres unidades</Descripción>
+					<Fecha límite>10-2023</Fecha límite>
+				</Oferta>
+				<URL>https://tienda.mercadona.es/product/34817/palomitas-maiz-dulces-hacendado-microondas-paquete</URL>
+				<Adquirido>true</Adquirido>
+			</Palomitas>
+			<Atún claro>
+				<Descripción>Atún claro en aceite de girasol</Descripción>
+				<Marca>Hacendado</Marca>
+				<Peso>60</Peso>
+				<Unidad de medida>gramos</Unidad de medida>
+				<Unidades>6</Unidades>
+				<Precio>
+					<Por unidad>0.75</Por unidad>
+					<Por pack>4.6</Por pack>
+					<Por kilo>12.5</Por kilo>
+				</Precio>
+				<Oferta>
+					<Descripción>Rebajado a 4.5€ por pack</Descripción>
+					<Fecha límite>28-04-2023</Fecha límite>
+				</Oferta>
+				<URL>https://tienda.mercadona.es/product/18055/atun-claro-aceite-girasol-hacendado-pack-6</URL>
+				<Adquirido>false</Adquirido>
+			</Atún claro>
+			<Helado>
+				<Descripción>Helado mini surtido</Descripción>
+				<Marca />
+				<Peso>684</Peso>
+				<Unidad de medida>gramos</Unidad de medida>
+				<Unidades>1</Unidades>
+				<Precio>
+					<Por unidad>2.7</Por unidad>
+					<Por kilo>3.5</Por kilo>
+				</Precio>
+				<Oferta />
+				<URL>https://tienda.mercadona.es/product/64001/helado-mini-surtido-hacendado-caja</URL>
+				<Adquirido>true</Adquirido>
+			</Helado>
+		</Productos>
+	</Mercadona>
+</root>
